@@ -1,0 +1,37 @@
+9
+Artes Cenicas
+0
+701
+Maria Silva
+Ciencia da Computacao
+0
+702
+João Oliveira
+Engenharia de Energias
+3
+703
+Ana Rodrigues
+Engenharia Metalurgica
+1
+704
+Pedro Costa
+Engenharia Geologica
+1
+705
+Juliana Souza
+Quimica Industrial
+0
+706
+Lucas Nunes
+Odontologia
+0
+707
+Isabela Santos
+Enfermagem
+3
+708
+Rafaela Ferreira
+Jiujitsu
+0
+709
+Pedro Faixa azul
